@@ -18,7 +18,7 @@ public class Persona {
 		this.edad =edad; 
 	}
 	
-	public String getEdad() {
+	public int getEdad() {
 		return edad;
 	}
 	
